@@ -1,0 +1,13 @@
+# Ignore all appsettings files by default
+appsettings*.json
+appsettings.json
+appsettings
+
+
+
+# Ignore other generated or build directories
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
