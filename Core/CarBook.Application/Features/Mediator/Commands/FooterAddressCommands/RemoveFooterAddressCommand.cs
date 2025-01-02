@@ -10,5 +10,4 @@ public class RemoveFooterAddressCommand : IRequest
     {
         Id = id;
     }
-
 }
